@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+| ![Dhairya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PhoenixDD&show_icons=true&include_all_commits=true&theme=ocean_dark) | ![Dhairya's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PhoenixDD&theme=ocean_dark&langs_count=10) |
+| ------------- | ------------- |
+
 <!--
 **PhoenixDD/PhoenixDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
